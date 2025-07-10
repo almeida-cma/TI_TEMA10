@@ -8,3 +8,5 @@ Ao final de cada arquivo você deverá compartilhar e deixar o acesso permitido 
 Em seguida é só criar um repositório no seu GitHub denominado "AtividadGoogle", digitar os links compartilhados no seu README e preencher a planilha de entrega de costume (logo abaixo).
 
 Envie o link do projeto publicado para: 👉 https://almeida-cma.github.io/receber/
+
+OBS: Link com exemplo de cálculos realizados em planilhas: 👉 https://docs.google.com/spreadsheets/d/1t519bASRQOzj8e33Y3zvUPF008JcvnRlvD9jpcgD3Hc/edit?usp=sharing
